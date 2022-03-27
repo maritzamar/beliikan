@@ -10,3 +10,18 @@ Tugas Mata Kuliah Pengembangan Aplikasi Berbasis Web
 6. Shipping
 7. Transaction
 8. Payments
+
+# Create Product
+Request :
+  - Method : POST
+  - Endpoint : /api/products
+  - Header:
+  - body :
+ 
+ # Get Poduct
+Request :
+  - Method : GET
+  - Endpoint : /api/products
+  - Header:
+  - body :
+ 
